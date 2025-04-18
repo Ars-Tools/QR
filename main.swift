@@ -1,9 +1,4 @@
-//
-//  main.swift
-//  qr
-//
-//  Created by Kota on 4/18/R7.
-//
+#!/usr/bin/env swift
 import class Foundation.FileHandle
 import CoreImage.CIFilterBuiltins
 enum Error: Swift.Error {
